@@ -1,0 +1,50 @@
+
+Privacy Policy for The Admiral
+At The Admiral, accessible from https://discord.com/oauth2/authorize?client_id=1139870579655184424, protecting your privacy is one of our top priorities. This Privacy Policy outlines the types of information we collect, how we use it, and your rights regarding that information. By using The Admiral, you consent to the practices described in this policy.
+
+If you have questions or need further information about this Privacy Policy, please contact us.
+
+Scope of the Policy
+This Privacy Policy applies to the use of The Admiral bot and any associated online services. It does not apply to any information collected offline or through other platforms unrelated to The Admiral.
+
+Information We Collect
+The types of information we may collect include:
+
+Provided Information: Any data you voluntarily share when using the bot, such as commands, messages, or other inputs.
+Automatically Collected Information: Interaction data, such as server details, timestamps, or feature usage, to improve performance and functionality.
+Contact Information: If you contact us directly, we may collect details such as your name, email address, and any other information you provide in the message.
+How We Use Your Information
+We use the collected data to:
+
+Operate and maintain the bot’s functionality.
+Improve and enhance user experience.
+Analyze usage trends to develop new features.
+Communicate updates, respond to inquiries, and provide support.
+Ensure security and prevent misuse of the bot.
+Log Files
+The Admiral follows standard logging practices to track server activity, feature usage, and general interactions. These logs may include information such as:
+
+Server IDs
+User commands
+Timestamps of interactions
+These logs are used for debugging, analytics, and ensuring smooth operation. They do not contain personally identifiable information unless provided by the user directly.
+
+Third-Party Services
+The Admiral may integrate with third-party APIs or services (e.g., Discord APIs or analytics tools). These services may collect and process user data according to their own privacy policies. We recommend reviewing the privacy policies of any relevant third-party services.
+
+User Rights
+Depending on your location, you may have rights under privacy laws such as GDPR or CCPA. These rights may include:
+
+Access: Request access to the information we have about you.
+Correction: Request corrections to any inaccurate or incomplete data.
+Deletion: Request that we delete your data, subject to certain conditions.
+Restriction: Request limitations on how your data is processed.
+Objection: Object to certain processing activities.
+Portability: Request that we transfer your data to another service or directly to you.
+To exercise any of these rights, please contact us. We will respond within the time frame required by applicable law.
+
+Children’s Privacy
+The Admiral is not intended for use by individuals under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you believe such information has been provided, contact us, and we will promptly remove it.
+
+Updates to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted here, and continued use of The Admiral after such updates constitutes your acceptance of the revised policy.
